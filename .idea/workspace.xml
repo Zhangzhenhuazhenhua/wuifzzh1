@@ -40,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="326" />
     <option name="y" value="87" />
     <option name="width" value="1360" />
@@ -55,8 +55,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="wuifzzh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wuifzzh" type="462c0819:PsiDirectoryNode" />
+              <item name="wuifzzh1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wuifzzh1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wuifzzh1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wuifzzh1" type="462c0819:PsiDirectoryNode" />
+              <item name="echarts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,16 +116,17 @@
       <workItem from="1560992724037" duration="21345000" />
       <workItem from="1561122249087" duration="1912000" />
       <workItem from="1561165061985" duration="250000" />
+      <workItem from="1561165467140" duration="302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41605000" />
+    <option name="totallyTimeSpent" value="41907000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="262" y="71" width="1088" height="684" extended-state="0" />
+    <frame x="261" y="70" width="1088" height="684" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2747573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28058252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -258,13 +264,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/echarts/top251.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="98" column="36" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/echarts/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -279,6 +278,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/echarts/top251.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="98" column="36" selection-start-line="98" selection-start-column="36" selection-end-line="98" selection-end-column="36" />
         </state>
       </provider>
     </entry>
